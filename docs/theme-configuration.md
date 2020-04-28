@@ -6,7 +6,9 @@ slug: intro
 ---
 ## Com funciona?
 
-Doncs la veritat es que no en tinc ni idea però ho estem [provant](https://google.com).
+Doncs la **veritat** es que no en tinc ni idea però ho estem [provant](https://google.com).
+
+    print_r($array)
 
 ## Changing logo
 
